@@ -2,12 +2,12 @@
 
 1 - Faça o clone da aplicação
 
-1 - Configure o mysql
+2 - Configure o mysql
 
-2 - Rode o comando ```CREATE DATABASE `my_favorite_musics` ```
+3 - Rode o comando ```CREATE DATABASE `my_favorite_musics` ```
 
-3 - Ajuste as configurações da conexão no ```config/config.json```
+4 - Ajuste as configurações da conexão no ```config/config.json```
 
-4 - Instale os packages com ```npm install```
+5 - Instale os packages com ```npm install```
 
-5 - Rode a aplicação ```npm run start```
+6 - Rode a aplicação ```npm run start```
