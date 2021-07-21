@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "d@T7;.~J``7S/>6%",
+    "database": "my_favorite_musics",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "d@T7;.~J``7S/>6%",
+    "database": "my_favorite_musics",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "d@T7;.~J``7S/>6%",
+    "database": "my_favorite_musics",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
